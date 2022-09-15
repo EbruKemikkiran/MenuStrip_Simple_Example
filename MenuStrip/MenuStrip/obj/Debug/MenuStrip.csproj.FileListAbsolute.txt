@@ -1,0 +1,11 @@
+D:\c#\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\c#\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+D:\c#\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.AssemblyReference.cache
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.SuggestedBindingRedirects.cache
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+D:\c#\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
